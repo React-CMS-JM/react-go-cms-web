@@ -10,7 +10,7 @@
 #   VITE_COURSES_API_URL
 #
 # Target:
-#   main → Worker "react-cms-web"
+#   main → Worker "react-go-cms-web"
 
 name: Deploy to Cloudflare Workers
 

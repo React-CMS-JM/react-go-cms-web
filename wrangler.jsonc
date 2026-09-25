@@ -1,11 +1,11 @@
 /**
  * Cloudflare Workers config for the React CMS frontend (static Vite SPA).
  *
- * Worker: react-cms-web → production (main branch)
+ * Worker: react-go-cms-web → production (main branch)
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "react-cms-web",
+	"name": "react-go-cms-web",
 	"compatibility_date": "2026-09-17",
 	"assets": {
 		"directory": "./dist",
